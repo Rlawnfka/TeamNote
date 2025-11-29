@@ -1,0 +1,135 @@
+.link-form {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.link-form__field {
+  margin-bottom: 16px;
+}
+
+.link-form__label {
+  display: block;
+  font-size: 12px;
+  color: #9ca3af;
+  margin-bottom: 6px;
+}
+
+.link-form__input {
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 14px;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+  box-sizing: border-box;
+}
+
+.link-form__input--url {
+  border: 2px solid #86efac;
+  background-color: #ffffff;
+}
+
+.link-form__input--url:focus {
+  border-color: #22c55e;
+}
+
+.link-form__input--desc {
+  flex: 1;
+  border: none;
+  background-color: #f3f4f6;
+}
+
+.link-form__input--desc:focus {
+  background-color: #e5e7eb;
+}
+
+.link-form__row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.link-form__submit {
+  padding: 14px 28px;
+  background-color: #86efac;
+  color: #1f2937;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.link-form__submit:hover {
+  background-color: #4ade80;
+}.link-form {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.link-form__field {
+  margin-bottom: 16px;
+}
+
+.link-form__label {
+  display: block;
+  font-size: 12px;
+  color: #9ca3af;
+  margin-bottom: 6px;
+}
+
+.link-form__input {
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 14px;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+  box-sizing: border-box;
+}
+
+.link-form__input--url {
+  border: 2px solid #86efac;
+  background-color: #ffffff;
+}
+
+.link-form__input--url:focus {
+  border-color: #22c55e;
+}
+
+.link-form__input--desc {
+  flex: 1;
+  border: none;
+  background-color: #f3f4f6;
+}
+
+.link-form__input--desc:focus {
+  background-color: #e5e7eb;
+}
+
+.link-form__row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.link-form__submit {
+  padding: 14px 28px;
+  background-color: #86efac;
+  color: #1f2937;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.link-form__submit:hover {
+  background-color: #4ade80;
+}
