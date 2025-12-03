@@ -1,8 +1,0 @@
-.main-content {
-  flex: 1;
-  background-color: #e5e7eb;
-  padding: 24px;
-  overflow-y: auto;
-  display: flex;
-  flex-direction: column;
-}

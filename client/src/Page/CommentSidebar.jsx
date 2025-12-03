@@ -1,8 +1,8 @@
 import React from 'react';
 import CommentItem from './CommentItem';
 import './CommentSidebar.css';
-
-const Commentbar = ({ comments }) => {
+//댓글 목록 사이드바
+const CommentSidebar = ({ comments }) => {
   return (
     <aside className="comment-sidebar">
       <h2 className="comment-sidebar__title">Comments</h2>
@@ -16,4 +16,4 @@ const Commentbar = ({ comments }) => {
   );
 };
 
-export default Commentbar;
+export default CommentSidebar;

@@ -1,7 +1,7 @@
 import React from 'react';
 import './CommentItem.css';
-
-const Comment = ({ comment }) => {
+//코멘트 추가했을 때 나오는 값.
+const CommentItem = ({ comment }) => {
   return (
     <div className="comment-item">
       <div className="comment-item__header">
@@ -18,4 +18,4 @@ const Comment = ({ comment }) => {
   );
 };
 
-export default Comment;
+export default CommentItem;

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './LinkForm.css';
-
+//링크폼 추가
 const LinkForm = ({ onAddLink }) => {
   const [url, setUrl] = useState('');
   const [description, setDescription] = useState('');
